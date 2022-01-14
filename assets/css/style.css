@@ -58,3 +58,9 @@ img {
         filter: grayscale(0%);
     }
 }
+ul.list-group {
+    min-height: 130px;
+  }
+  ul.list-group {
+    min-height: 130px;
+  }
